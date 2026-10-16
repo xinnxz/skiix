@@ -1,0 +1,5 @@
+# Skiix Supabase project (snzhheiuysgjiracbpwj)
+project_id = "snzhheiuysgjiracbpwj"
+
+[functions.send-email]
+verify_jwt = false

@@ -1,0 +1,47 @@
+# Node
+node_modules
+.expo
+.next
+dist
+build
+
+# Env files
+.env
+.env.local
+.env.production
+
+# Logs
+*.log
+
+# Mac
+.DS_Store
+
+# Android
+android/app/build
+
+# iOS
+ios/build
+
+# VS Code
+.vscode
+
+# Cursor
+.cursor
+
+# Coverage
+coverage
+
+# Go
+backend/bin/
+backend/coverage.out
+*.exe
+*.test
+
+# Firebase service account (gitignored — place JSON here)
+backend/config/firebase-service-account.json
+
+# Supabase local
+supabase/.temp/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
